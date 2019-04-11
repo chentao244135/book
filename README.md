@@ -1,2 +1,2 @@
 # book
-selftaching
+selfteahing
